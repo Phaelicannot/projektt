@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\erika.westman\\programmering2\\projektt\\projektt.csproj": {}
+    "C:\\Users\\erika.westman\\programmering2\\projektt\\projektt.csproj": {}
   },
   "projects": {
-    "c:\\Users\\erika.westman\\programmering2\\projektt\\projektt.csproj": {
+    "C:\\Users\\erika.westman\\programmering2\\projektt\\projektt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\erika.westman\\programmering2\\projektt\\projektt.csproj",
+        "projectUniqueName": "C:\\Users\\erika.westman\\programmering2\\projektt\\projektt.csproj",
         "projectName": "projektt",
-        "projectPath": "c:\\Users\\erika.westman\\programmering2\\projektt\\projektt.csproj",
+        "projectPath": "C:\\Users\\erika.westman\\programmering2\\projektt\\projektt.csproj",
         "packagesPath": "C:\\Users\\erika.westman\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\erika.westman\\programmering2\\projektt\\obj\\",
+        "outputPath": "C:\\Users\\erika.westman\\programmering2\\projektt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

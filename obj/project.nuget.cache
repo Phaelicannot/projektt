@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3VpkRmpbNt8HRWMrg/84GSyJ4CyK2ToxpY6NHrD8lpuvalxzK9tEyd13SLVvxHvx3TJ1iINYc2Xk7JNcMBviTw==",
+  "dgSpecHash": "I909gYiKoQzqcz7wPJVs58NIxTEpxPItrEBMq/DSpqboqUPFi66vPb2sK7jFqvnjvM02+tIwvDmb1sExNWVOcg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\erika.westman\\programmering2\\projektt\\projektt.csproj",
+  "projectFilePath": "C:\\Users\\erika.westman\\programmering2\\projektt\\projektt.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erika.westman\\.nuget\\packages\\raylib-cs\\6.0.0\\raylib-cs.6.0.0.nupkg.sha512",
     "C:\\Users\\erika.westman\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
